@@ -258,6 +258,7 @@ elkhechafi zakaria
 - [Razeed](https://github.com/j-razeed)
 - [Rhiad Ciccoli] (https://github.com/Rhiadc/)
 - [Vasco Ramos] (https://github.com/RamosCSV/)
+- [Sravanitha Gatti](https://github.com/SravanithaGatti)
 - [Tirenioluwa Shobande]
 - [Jack Mulligan](https://github.com/jackmulligan-ire/)
 - [Sudarshan Shinde] (https://github.com/sudarshan-d-s)
